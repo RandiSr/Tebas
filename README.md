@@ -5,4 +5,6 @@
 - sh tebasindex.sh
 
 • Follow ig @RanOloy
-° Channel yt RANDI OLOYY
+
+
+• Channel yt RANDI OLOYY
