@@ -1,4 +1,5 @@
 #!/bin/bash
+#Cie yang recode , hargai karya orang;)
 #YouTube Randi oloy
 clear
 bi='\033[34;1m' #biru
